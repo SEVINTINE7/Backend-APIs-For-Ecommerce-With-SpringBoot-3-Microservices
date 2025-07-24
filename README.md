@@ -1,4 +1,4 @@
-# Spring Boot Microservices Project for an E-commerce backend with secured authentication
+# Spring Boot Microservices Project for an E-commerce Backend with Secured Authentication
 
 ## Project Overview
 
