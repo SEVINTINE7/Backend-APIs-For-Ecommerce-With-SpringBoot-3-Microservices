@@ -1,8 +1,8 @@
-# Spring Boot Microservices Project
+# Spring Boot Microservices Project for an E-commerce backend with secured authentication
 
 ## Project Overview
 
-This project consists of two microservices with role-based access control (Admin, Staff, Customer) implemented using Spring Security 6 and Spring Boot 3. Both services are secured with JWT authentication.
+This project consists of microservices with role-based access control (Admin, Staff, Customer) implemented using Spring Security 6 and Spring Boot 3. Each services are secured with JWT authentication.
 
 
 ## Services
